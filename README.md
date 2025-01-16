@@ -33,7 +33,7 @@ This project demonstrates how to build a **Local Retrieval-Augmented Generation 
 1. **Clone the Repository**
 
 ```bash
-git clone https://github.com/your-username/local-rag-system.git
+git clone https://github.com/MantashaAlii/local-rag-llm.git
 cd local-rag-system
 ```
 
@@ -54,7 +54,7 @@ pip install -r requirements.txt
 4. **Install Ollama and ChromaDB**
 
 ```bash
-pip install langchain chromadb ollama unstructured
+pip install langchain chromadb ollama
 ```
 
 ---
